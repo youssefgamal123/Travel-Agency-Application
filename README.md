@@ -7,4 +7,9 @@
 
 # Description:
 
-##### Travel Agency Application that helps users to book hotels and cabs , And it gives them a ticket that contains Payement info
+##### Travel Agency Application that helps users to book hotels and cabs , And it gives them a ticket that contains Payement info And their Details.
+##### Program stores the ticket in ticket.txt file.
+##### Program source code can be edited to add more hotels and Cabs and their diffrent packages.
+##### Program saves customers details for future purposes .
+##### Feel Fee To Leave any comments.
+
